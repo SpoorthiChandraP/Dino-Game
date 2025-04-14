@@ -18,3 +18,19 @@ This project allows you to play the **Chrome T-Rex Dino Game** using **hand gest
 - OpenCV
 - cvzone (built on top of MediaPipe)
 - ctypes (for simulating low-level keypresses)
+
+## 📋 How to Use / Instructions
+
+1. Open Google Chrome.
+
+2. Visit the game at: https://trex-runner.com/ (Alternatively, type chrome://dino in the address bar and hit Enter)
+
+3. Make sure the game window is in focus (click on it once).
+
+4. Run the main Python script: python main.py
+Make sure your webcam is active and clearly sees your hand.
+
+5. Use hand gestures:
+✊ Fist (0 fingers up) → Dino jumps
+✋ Any other gesture (1–5 fingers) → No action
+✅ Tip: Keep your hand within the frame and use a well-lit background for best results.
