@@ -32,8 +32,8 @@ Make sure your webcam is active and clearly sees your hand.
 
 5. Use hand gestures:
 
-✊ Fist (0 fingers up) → Dino jumps
+  ✊ Fist (0 fingers up) → Dino jumps
 
-✋ Any other gesture (1–5 fingers) → No action
+  ✋ Any other gesture (1–5 fingers) → No action
 
-✅ Tip: Keep your hand within the frame and use a well-lit background for best results.
+  ✅ Tip: Keep your hand within the frame and use a well-lit background for best results.
